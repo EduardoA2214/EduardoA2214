@@ -77,46 +77,6 @@ Atuo na interseção entre **educação** e **tecnologia**. Como professor e des
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EduardoA2214&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoA2214&show_icons=true&theme=dark&bg_color=050806&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66&hide_border=false" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoA2214&layout=compact&theme=dark&bg_color=050806&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66&hide_border=false" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoA2214&theme=dark&background=050806&fire=00FF66&ring=00FF66&currStreakLabel=00FF66&border=00FF66&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <h3>📈 Gráfico de Atividade</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoA2214&theme=react-dark&bg_color=050806&color=00FF66&line=00FF66&point=ffffff&area=true&hide_border=false&border_color=00FF66" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
-### 🐍 Snake Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoA2214/EduardoA2214/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoA2214/EduardoA2214/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/EduardoA2214/EduardoA2214/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
----
-
 ### 🌐 Redes & Contato
 
 <div align="center">
