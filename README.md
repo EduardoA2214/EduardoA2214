@@ -1,82 +1,87 @@
 <div align="center">
 
-  <!-- Banner com suporte nativo a gradiente verde/preto -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050806&customColorList=12,25,00FF66&height=250&section=header&text=Eduardo%20da%20Silva%20Assis&fontSize=38&fontColor=00FF66&animation=twinkling&desc=PROFESSOR%20%7C%20DESENVOLVEDOR&descSize=16&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=6,22,00E676&height=260&section=header&text=Eduardo%20da%20Silva%20Assis&fontSize=40&fontColor=00E676&animation=fadeIn&fontAlignY=38&desc=PROFESSOR%20%7C%20DESENVOLVEDOR%20WEB&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-  <br/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=39D97B&center=true&vCenter=true&width=600&height=45&lines=Ensinando+l%C3%B3gica+de+programa%C3%A7%C3%A3o;Construindo+aplica%C3%A7%C3%B5es+web;Transformando+conhecimento+em+c%C3%B3digo" alt="Typing Animation" />
+</a>
 
-  <!-- Animação de Texto -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=550&height=40&lines=Professor+%26+Desenvolvedor;Tecnologia+%26+Educa%C3%A7%C3%A3o;Desenvolvimento+Web+%26+Sistemas" alt="Typing Animation" />
-  </a>
+<br/>
 
-  <br/><br/>
-
-  <!-- Status / Destaques -->
-  <p align="center">
-    <a href="https://instagram.com/1eduardo.assis" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@1eduardo.assis-00FF66?style=for-the-badge&logo=instagram&logoColor=050806&labelColor=050806" alt="Instagram" />
-    </a>
-    <img src="https://img.shields.io/badge/Foco-Ensino_%26_Desenvolvimento-00FF66?style=for-the-badge&logo=codeforces&logoColor=050806&labelColor=050806" alt="Foco" />
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EduardoA2214&label=Visitantes&color=0D1117&style=flat-square&labelColor=00E676" alt="Visitor Badge"/>
+  <img src="https://img.shields.io/github/followers/EduardoA2214?label=Seguidores&style=flat-square&color=0D1117&labelColor=00E676" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Dispon%C3%ADvel_para-Projetos-0D1117?style=flat-square&labelColor=00E676" alt="Disponível"/>
+</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a473-11eb-812d-73f5fc3346d8.gif" width="100%" />
+<br/>
 
-### 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-> *Unindo educação e tecnologia para criar soluções práticas e eficientes.*
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a473-11eb-812d-73f5fc3346d8.gif" width="320"/>
 
-Atuo na interseção entre **ensino** e **desenvolvimento de software**. Como professor e desenvolvedor, dedico meu trabalho a transformar conhecimento em código e a construir aplicações web completas.
+Atuo na interseção entre **ensino** e **desenvolvimento de software**, unindo didática e código para criar soluções práticas e formar novos desenvolvedores.
 
-- 🏫 **Atuação Profissional:** Professor & Desenvolvedor
-- 💻 **Domínio Técnico:** Desenvolvimento Web, Lógica de Programação e Estrutura de Dados
-- 🎯 **Propósito:** Desenvolver soluções modernas e impulsionar a formação na área tech
+- 🏫 &nbsp;**Atuação:** Professor & Desenvolvedor Web
+- 💡 &nbsp;**Foco:** Lógica de Programação, Estrutura de Dados e Desenvolvimento Web
+- 🌱 &nbsp;**Objetivo atual:** Aprofundar back-end e boas práticas de arquitetura
+- 📍 &nbsp;**Abordagem:** Código limpo, didático e orientado a resultado
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Tecnologias & Habilidades
+## 🛠️ Stack & Ferramentas
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/HTML5-050806?style=for-the-badge&logo=html5&logoColor=00FF66" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-050806?style=for-the-badge&logo=css3&logoColor=00FF66" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-050806?style=for-the-badge&logo=javascript&logoColor=00FF66" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-050806?style=for-the-badge&logo=nodedotjs&logoColor=00FF66" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQL-050806?style=for-the-badge&logo=postgresql&logoColor=00FF66" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-050806?style=for-the-badge&logo=git&logoColor=00FF66" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-050806?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub" />
+**Front-end**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00E676" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00E676" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00E676" />
+
+**Back-end & Dados**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00E676" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00E676" />
+
+**Versionamento**
+<br/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E676" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E676" />
 
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🚀 Projetos em destaque
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top">
       <h3>🌬️ Vento Louco Simulador</h3>
-      <p>Simulador interativo desenvolvido para demonstrações e testes visuais via web.</p>
+      <p>Simulador interativo web para demonstrações visuais e testes de comportamento dinâmico.</p>
       <a href="https://vento-louco-simulador.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Acessar_Projeto-00FF66?style=for-the-badge&logo=vercel&logoColor=050806&labelColor=050806" alt="Vento Louco" />
+        <img src="https://img.shields.io/badge/Ver_projeto-0D1117?style=for-the-badge&logo=vercel&logoColor=00E676" />
       </a>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top">
       <h3>💼 Portfólio Pessoal</h3>
-      <p>Plataforma para apresentação de projetos, trajetória e competências técnicas.</p>
+      <p>Plataforma de apresentação profissional com projetos, trajetória e competências técnicas.</p>
       <a href="https://portfolio-lac-iota-vdv7e3mh7r.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Acessar_Portfólio-00FF66?style=for-the-badge&logo=vercel&logoColor=050806&labelColor=050806" alt="Portfólio" />
+        <img src="https://img.shields.io/badge/Ver_portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E676" />
       </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="100%" align="center" valign="top">
+    <td colspan="2" valign="top">
       <h3>📚 Gerenciamento de Biblioteca</h3>
-      <p>Sistema completo para organização, controle de acervo e fluxo de empréstimos de livros.</p>
+      <p>Sistema completo para organização de acervo, cadastro e controle de fluxo de empréstimos de livros.</p>
       <a href="https://github.com/EduardoA2214/gerenciamento_biblioteca" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Repositório-00FF66?style=for-the-badge&logo=github&logoColor=050806&labelColor=050806" alt="Gerenciamento Biblioteca" />
+        <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=00E676" />
       </a>
     </td>
   </tr>
@@ -84,15 +89,15 @@ Atuo na interseção entre **ensino** e **desenvolvimento de software**. Como pr
 
 ---
 
-### 🌐 Redes & Conexão
+## 🌐 Conecte-se
 
 <div align="center">
 
   <a href="https://instagram.com/1eduardo.assis" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1eduardo.assis-00FF66?style=for-the-badge&logo=instagram&logoColor=050806&labelColor=050806" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E676" />
   </a>
   <a href="https://github.com/EduardoA2214" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-EduardoA2214-00FF66?style=for-the-badge&logo=github&logoColor=050806&labelColor=050806" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E676" />
   </a>
 
 </div>
@@ -100,5 +105,5 @@ Atuo na interseção entre **ensino** e **desenvolvimento de software**. Como pr
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=050806&height=40&text=⚡%20Eduardo%20da%20Silva%20Assis%20•%20Código%20e%20Conhecimento%20em%20Evolução&fontSize=13&fontColor=00FF66" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=45&text=⚡%20Eduardo%20da%20Silva%20Assis%20%E2%80%A2%20C%C3%B3digo%20e%20Conhecimento%20em%20Evolu%C3%A7%C3%A3o&fontSize=13&fontColor=00E676" width="100%" />
 </div>
