@@ -1,35 +1,42 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1410&customColorList=0&height=220&section=header&text=Eduardo%20da%20Silva%20Assis&fontSize=38&fontColor=00FF66&animation=twinkling&desc=PROFESSOR%20%7C%20DESENVOLVEDOR&descSize=16&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Banner com suporte nativo a gradiente verde/preto -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050806&customColorList=12,25,00FF66&height=250&section=header&text=Eduardo%20da%20Silva%20Assis&fontSize=38&fontColor=00FF66&animation=twinkling&desc=PROFESSOR%20%7C%20DESENVOLVEDOR&descSize=16&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
 
   <br/>
 
+  <!-- Animação de Texto -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=40&lines=Professor+%26+Desenvolvedor;Tecnologia+%26+Educa%C3%A7%C3%A3o;Desenvolvimento+Web+%26+Sistemas" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=550&height=40&lines=Professor+%26+Desenvolvedor;Tecnologia+%26+Educa%C3%A7%C3%A3o;Desenvolvimento+Web+%26+Sistemas" alt="Typing Animation" />
   </a>
 
   <br/><br/>
 
-  <a href="https://instagram.com/1eduardo.assis" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@1eduardo.assis-00FF66?style=for-the-badge&logo=instagram&logoColor=050806&labelColor=050806" alt="Instagram" />
-  </a>
-  <img src="https://img.shields.io/badge/Foco-Ensino_%26_Desenvolvimento-00FF66?style=for-the-badge&labelColor=050806" alt="Foco" />
+  <!-- Status / Destaques -->
+  <p align="center">
+    <a href="https://instagram.com/1eduardo.assis" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@1eduardo.assis-00FF66?style=for-the-badge&logo=instagram&logoColor=050806&labelColor=050806" alt="Instagram" />
+    </a>
+    <img src="https://img.shields.io/badge/Foco-Ensino_%26_Desenvolvimento-00FF66?style=for-the-badge&logo=codeforces&logoColor=050806&labelColor=050806" alt="Foco" />
+  </p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a473-11eb-812d-73f5fc3346d8.gif" width="100%" />
 
 ### 👨‍💻 Sobre Mim
 
-Atuo na interseção entre **educação** e **tecnologia**. Como professor e desenvolvedor, foco em ensinar conceitos tecnológicos e construir aplicações web funcionais e organizadas.
+> *Unindo educação e tecnologia para criar soluções práticas e eficientes.*
 
-- 🏫 **Atuação:** Professor / Desenvolvedor
-- 💻 **Foco:** Desenvolvimento de software, lógica de programação e gerenciamento de dados
-- 🎯 **Objetivo:** Criar soluções eficientes e impactar a área da tecnologia através da educação e do código
+Atuo na interseção entre **ensino** e **desenvolvimento de software**. Como professor e desenvolvedor, dedico meu trabalho a transformar conhecimento em código e a construir aplicações web completas.
+
+- 🏫 **Atuação Profissional:** Professor & Desenvolvedor
+- 💻 **Domínio Técnico:** Desenvolvimento Web, Lógica de Programação e Estrutura de Dados
+- 🎯 **Propósito:** Desenvolver soluções modernas e impulsionar a formação na área tech
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Habilidades
 
 <div align="center">
 
@@ -67,7 +74,7 @@ Atuo na interseção entre **educação** e **tecnologia**. Como professor e des
   <tr>
     <td colspan="2" width="100%" align="center" valign="top">
       <h3>📚 Gerenciamento de Biblioteca</h3>
-      <p>Sistema completo para organização, controle de acervo e fluxo de empréstimos.</p>
+      <p>Sistema completo para organização, controle de acervo e fluxo de empréstimos de livros.</p>
       <a href="https://github.com/EduardoA2214/gerenciamento_biblioteca" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Repositório-00FF66?style=for-the-badge&logo=github&logoColor=050806&labelColor=050806" alt="Gerenciamento Biblioteca" />
       </a>
@@ -77,7 +84,7 @@ Atuo na interseção entre **educação** e **tecnologia**. Como professor e des
 
 ---
 
-### 🌐 Redes & Contato
+### 🌐 Redes & Conexão
 
 <div align="center">
 
@@ -93,5 +100,5 @@ Atuo na interseção entre **educação** e **tecnologia**. Como professor e des
 <br/>
 
 <div align="center">
-  <sub>⚡ Eduardo da Silva Assis • "Código e Conhecimento em evolução contínua"</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=050806&height=40&text=⚡%20Eduardo%20da%20Silva%20Assis%20•%20Código%20e%20Conhecimento%20em%20Evolução&fontSize=13&fontColor=00FF66" width="100%" />
 </div>
