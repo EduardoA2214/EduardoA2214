@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=6,22,00E676&height=260&section=header&text=Eduardo%20da%20Silva%20Assis&fontSize=40&fontColor=00E676&animation=fadeIn&fontAlignY=38&desc=PROFESSOR%20%7C%20DESENVOLVEDOR%20WEB&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=260&section=header&text=Eduardo%20da%20Silva%20Assis&fontSize=40&fontColor=00E676&animation=fadeIn&fontAlignY=38&desc=PROFESSOR%20%7C%20DESENVOLVEDOR%20WEB&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=39D97B&center=true&vCenter=true&width=600&height=45&lines=Ensinando+l%C3%B3gica+de+programa%C3%A7%C3%A3o;Construindo+aplica%C3%A7%C3%B5es+web;Transformando+conhecimento+em+c%C3%B3digo" alt="Typing Animation" />
 </a>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EduardoA2214&label=Visitantes&color=0D1117&style=flat-square&labelColor=00E676" alt="Visitor Badge"/>
-  <img src="https://img.shields.io/github/followers/EduardoA2214?label=Seguidores&style=flat-square&color=0D1117&labelColor=00E676" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Dispon%C3%ADvel_para-Projetos-0D1117?style=flat-square&labelColor=00E676" alt="Disponível"/>
-</p>
 
 </div>
 
